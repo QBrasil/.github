@@ -1,6 +1,6 @@
 # QBrasil
 
-O QBrasil, um subgrupo do QWorld no Brasil, tem como missão popularizar as tecnologias e softwares quânticos por meio de educação e desenvolvimento de habilidades. O QWorld oferece cursos em inglês e outras línguas em diversos níveis na área de Informação e Computação Quântica, proporcionando uma oportunidade única para aprofundar seus conhecimentos na área, e pretendemos trazer isso para o Brasil.
+O QBrasil, o braço brasileiro da QWorld, tem como missão popularizar as tecnologias e softwares quânticos por meio de educação e desenvolvimento de habilidades. O QWorld é uma organização internacional que oferece cursos em inglês e outras línguas em diversos níveis na área de Informação e Computação Quântica, colocando conhecimento técnico na área ao alcance de todos. Agora trazemos essas operações para o Brasil.
 
 Nossa equipe é composta por pesquisadores e pós-graduandos em física, comprometidos com a disseminação de conhecimento científico e o desenvolvimento de habilidades em computação quântica (Clique aqui para mais informações sobre o QBrasil e nossa missão).
 
